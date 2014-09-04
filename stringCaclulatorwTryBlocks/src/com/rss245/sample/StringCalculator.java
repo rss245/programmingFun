@@ -15,7 +15,7 @@ import com.rss245.sample.exceptions.NegativesNotAllowedAppException;
  * an exception will be thrown and caught.
  * Custom delimiters can be specified via the inputString prefix: "//[delimiter]\n[inputParameters]
  * 
- * try
+ * try 123
  */
 
 public class StringCalculator  {

@@ -1,5 +1,6 @@
 package com.rss245.sample.exceptions;
 
+// 123
 public class NegativesNotAllowedAppException extends Exception {
     private String message = "Negatives are not allowed";
     
